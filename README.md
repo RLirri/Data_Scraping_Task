@@ -28,7 +28,7 @@ These indicators are essential for quantitative trading strategies and provide f
 To efficiently fetch data for multiple stock symbols, the program uses **multi-threading**. This allows concurrent fetching of stock data, improving performance and reducing execution time.
 
 ### 4. Error Handling & Logging:
-The project incorporates robust error handling with extensive logging to monitor the scraping process, ensuring smooth execution. Each stage of the process (from fetching data to saving files) is tracked for possible errors and issues.
+The project incorporates error handling with extensive logging to monitor the scraping process, ensuring smooth execution. Each stage of the process (from fetching data to saving files) is tracked for possible errors and issues.
 
 ## Task Project Structure
 
